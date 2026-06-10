@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+</head>
+
+<body>
+    <h1>Survey Form</h1>
+    <form action="/submit" method="post">
+        <div>
+            <label for="username">Enter your username:</label>
+            <input type="text" id="username" name="username" placeholder="Enter your username">
+           
+        </div>
+
+        <div>
+            <input type="radio" id="male" name="gender" value="male">
+            <label for="male">Male</label>
+            <input type="radio" id="female" name="gender" value="female">
+            <label for="female">Female</label>
+        </div>
+        <div>
+            <input type="checkbox" id="Filled" name="Filled" value="yes">
+            <label for="Filled">Filled the survey</label>
+        </div>
+        <div>
+            <label for="comment">Enter your Comments</label>
+            <br>
+            <textarea id="comment" name="comment" row="4" column="100"></textarea>
+            </br>
+        </div>
+        <div></div>
+        <label for="color">Choose your favorite color:</label>
+        <select id="color">
+            <option value="Black">Black</option>
+            <option value="Yellow">Yellow</option>
+            <option value="White">White</option>
+            
+        </select>
+        </div>
+        <br>
+        <button type="submit">Submit</button>
+        </br>
+    </form>
+</body>
+
+</html>
