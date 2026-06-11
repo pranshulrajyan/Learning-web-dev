@@ -1,54 +1,92 @@
-# Web Dev Projects
+# 🌐 Web Development Journey
 
-This repository contains my web development practice projects built while learning HTML, CSS, and JavaScript.
+This repository contains my web development learning projects and practice exercises as I progress through HTML, CSS, and JavaScript.
+
+---
+
+## 📚 Topics Covered
+
+### ✅ HTML Basics
+- Document structure
+- Headings and paragraphs
+- Links and navigation
+- Images
+- Lists (Ordered, Unordered, Description)
+- Tables
+- Forms
+- Inline & Block elements
+
+---
 
 ## 🚀 Projects
 
 ### 1. First Website
+A basic HTML website created while learning the fundamentals of web development.
 
-A simple website built as my first step into web development.
-
-📁 **Folder:** [`first-website`](https://github.com/pranshulrajyan/web-dev/tree/main/first-website)
-
-**Features:**
-- Basic webpage layout
-- HTML structure practice
-- CSS styling
-- JavaScript interactivity
-
-**🛠 Tech Stack**
+**Tech Stack**
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript
 
 ---
 
 ### 2. Bookmark Manager
+A simple bookmark manager that provides quick access to frequently used websites.
 
-A simple bookmark manager website created using HTML to organize and access frequently used websites.
+**Features**
+- Open websites through links
+- Open links in new tabs
+- Clean HTML structure
 
-📁 **Folder:** [`Bookmarks Manager`](https://github.com/pranshulrajyan/web-dev/tree/main/Bookmarks%20Manager)
-
-**Features:**
-- Organized bookmark sections
-- Quick access to websites through links
-- Opens links in new tabs
-- Simple and clean HTML structure
-
-**🛠 Tech Stack**
+**Tech Stack**
 - HTML5
 
-**🔮 Planned Improvements**
-- CSS styling for a better user interface
+**Planned Improvements**
+- CSS styling
 - JavaScript functionality
 - Add/Edit/Delete bookmarks
 - Local Storage support
 
 ---
 
-## 📌 Goal
+## 📂 Repository Structure
 
-This repository is part of my journey to become a full-stack developer by building projects consistently and improving them step by step.
+```text
+WEB-DEV/
+│
+├── 01-first-website/
+├── 02-Bookmarks-Manager/
+├── 03-Images-Tables-Lists/
+├── 04-Forms/
+├── 05-Inline-Block-Elements/
+└── README.md
+```
+
+---
+
+## 🎯 Goal
+
+To build a strong foundation in:
+
+- HTML
+- CSS
+- JavaScript
+- Responsive Web Design
+- Frontend Development
+
+and eventually move towards full-stack web development.
+
+---
+
+## 📈 Progress
+
+- [x] HTML Basics
+- [x] Links & Images
+- [x] Lists & Tables
+- [x] Forms
+- [x] Inline & Block Elements
+
+---
 
 ## 👨‍💻 Author
 
