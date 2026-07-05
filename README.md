@@ -61,6 +61,8 @@ WEB-DEV/
 ├── 05-Inline-Block-Elements
 ├── 05-Inline-Block-Elements
 ├── 06-ID-Classes
+├── 07-Video-Audio-and-Media
+├── 08-Semantic-Tags
 └── README.md
 ```
 
