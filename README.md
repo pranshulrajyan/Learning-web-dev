@@ -59,6 +59,8 @@ WEB-DEV/
 ├── 03-Images-Tables-Lists/
 ├── 04-Forms/
 ├── 05-Inline-Block-Elements/
+├── 05-Inline-Block-Elements/
+├── 06-ID-Casses-/
 └── README.md
 ```
 
@@ -85,7 +87,7 @@ and eventually move towards full-stack web development.
 - [x] Lists & Tables
 - [x] Forms
 - [x] Inline & Block Elements
-
+- [x] Id & Classes
 ---
 
 ## 👨‍💻 Author
