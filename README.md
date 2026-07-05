@@ -88,6 +88,8 @@ and eventually move towards full-stack web development.
 - [x] Forms
 - [x] Inline & Block Elements
 - [x] Id & Classes 
+- [x] Video, Audio & Media 
+- [x] Semantic Tags
 ---
 
 ## 👨‍💻 Author
