@@ -1,12 +1,12 @@
 # 🌐 Web Development Journey
 
-This repository contains my web development learning projects and practice exercises as I progress through HTML, CSS, and JavaScript.
+This repository contains my web development learning projects and practice exercises as I progress through HTML5, CSS3, and JavaScript.
 
 ---
 
 ## 📚 Topics Covered
 
-### ✅ HTML Basics
+### ✅ HTML5
 - Document structure
 - Headings and paragraphs
 - Links and navigation
@@ -15,39 +15,15 @@ This repository contains my web development learning projects and practice exerc
 - Tables
 - Forms
 - Inline & Block elements
+- Id & Classes
+- Video, Audio & Media
+- Semantic Tags
+
+### ✅ CSS3
+- Introduction to CSS3
 
 ---
 
-## 🚀 Projects
-
-### 1. First Website
-A basic HTML website created while learning the fundamentals of web development.
-
-**Tech Stack**
-- HTML5
-- CSS3
-- JavaScript
-
----
-
-### 2. Bookmark Manager
-A simple bookmark manager that provides quick access to frequently used websites.
-
-**Features**
-- Open websites through links
-- Open links in new tabs
-- Clean HTML structure
-
-**Tech Stack**
-- HTML5
-
-**Planned Improvements**
-- CSS styling
-- JavaScript functionality
-- Add/Edit/Delete bookmarks
-- Local Storage support
-
----
 
 ## 📂 Repository Structure
 
@@ -56,14 +32,13 @@ WEB-DEV/
 │
 ├── 01-first-website
 ├── 02-Bookmarks-Manager
-├── 03-Images-Tables-Lists
-├── 04-Forms
-├── 05-Inline-Block-Elements
-├── 05-Inline-Block-Elements
-├── 06-ID-Classes
+├── 03-Images-Tables-and-Lists
+├── 04-Forms-and-input-tags
+├── 05-Inline-and-Block-Elements
+├── 06-ID-and-Classes
 ├── 07-Video-Audio-and-Media
 ├── 08-Semantic-Tags
-├── 09-Introduction to CSS
+├── 09-Introduction-to-CSS3
 └── README.md
 ```
 
@@ -73,8 +48,8 @@ WEB-DEV/
 
 To build a strong foundation in:
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 - Responsive Web Design
 - Frontend Development
