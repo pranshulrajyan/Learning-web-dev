@@ -23,6 +23,7 @@ This repository contains my web development learning projects and practice exerc
 - Introduction to CSS3
 - Inline, Internal & External CSS
 - CSS Selectors
+- CSS Box Model
 
 ---
 
@@ -42,6 +43,7 @@ WEB-DEV/
 ├── 08-Semantic-Tags
 ├── 09-Introduction-to-CSS3
 ├── 10-CSS-Selectors
+├── 10-CSS-Box-Model
 └── README.md
 ```
 
@@ -74,6 +76,7 @@ and eventually move towards full-stack web development.
 - [x] CSS Basics 
 - [x] Inline, Internal & External CSS
 - [x] CSS Selectors
+- [x] CSS Box Model
 ---
 
 ## 👨‍💻 Author
