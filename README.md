@@ -39,6 +39,7 @@ WEB-DEV/
 ├── 07-Video-Audio-and-Media
 ├── 08-Semantic-Tags
 ├── 09-Introduction-to-CSS3
+├── 10-CSS-Selectors
 └── README.md
 ```
 
@@ -69,6 +70,8 @@ and eventually move towards full-stack web development.
 - [x] Video, Audio & Media 
 - [x] Semantic Tags
 - [x] CSS Basics 
+- [x] Inline, Internal & External CSS
+- [x] CSS Selectors
 ---
 
 ## 👨‍💻 Author
