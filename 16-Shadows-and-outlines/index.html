@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shadows & Outlines</title>
+    <style>
+        .boxshadow {
+            border: 4px solid red;
+            padding: 34px;
+            box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+        }
+
+        .textshadow {
+            border: 4px solid red;
+            padding: 34px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+        .outline {
+            border: 4px solid red;
+            padding: 34px;
+            outline: 5px dashed blue;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="boxshadow">
+        box-shadow is a popular CSS property that enables designers to add shadow effects around an element's frame. It
+        can be used to give any element, be it a div, image, or button, a 3D feel or to emphasize on hover.
+        Syntax:
+        <br>box-shadow: h-offset v-offset blur spread color inset;
+        <br>where
+        <br>h-offset and v-offset: Determines the shadow's horizontal and vertical position.
+        <br>blur: The larger the value, the blurrier the shadow.
+        <br>spread: Expands or shrinks the shadow size.
+        <br>color: Defines the shadow color.
+        <br>inset: Makes the shadow inner.
+    </div>
+    <div class="textshadow">
+        text-shadow is utilized to give shadows specifically to the text. It can elevate the readability of the text or
+        give it an elegant appearance.<br>Syntax: <br>text-shadow: h-offset v-offset blur color;</div>
+    <div class="outline">An outline is a line that is drawn around elements, outside the borders, to make the element
+        "stand out". It's commonly used for accessibility purposes, like highlighting focused
+        elements.<br>Syntax:<br>outline: width style color;<br>where:<br>width: Sets the outline width.
+        <br>style: Determines the style of the outline such as solid, dotted, or dashed.
+        <br>color: Sets the outline color.
+    </div>
+    <br>
+    <div class="difference">Key Differences between outline and border:<br>
+        <ul>
+            <li>Outline is drawn outside the border, while border is drawn inside the element.</li>
+            <li>Outline does not take up space, while border does.</li>
+            <li>Outline can be any color, while border can only be a solid color.</li>
+        </ul>
+    </div>
+</body>
+
+</html>
