@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS overflow property</title>
+    <style>
+        .lorem {
+            border: 2px solid black;
+            width: 50vw;
+            height: 10vh;
+            overflow: auto;
+            white-space: nowrap;/*doesn't let the content enetr a new line, all content displayed in one line(here we get a horizontal scroll bar instead of verticle)*/
+            text-overflow: ellipsis;/*displays content that fits in frame and the remaining is printed as "..."*/
+            overflow: clip;/*disables programitical scrolling*/
+            overflow: hidden;/*hides the overflowing content*/
+        }
+    </style>
+</head>
+
+<body>
+    <div class="lorem">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore obcaecati dolor dicta consectetur
+        unde ad atque! Ea consequuntur iste odit eius iusto laborum, itaque reiciendis nostrum porro delectus pariatur
+        alias vel sunt voluptates tempore quidem perferendis sequi aliquid. Voluptates eveniet, tenetur doloremque ab
+        dolor sint, consectetur a facilis ratione assumenda fugiat magnam, quo tempora! Atque, aut eligendi! Voluptatem
+        veniam quia placeat nesciunt quod numquam accusamus, eaque provident in dicta accusantium voluptatibus
+        blanditiis alias quam. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi quibusdam suscipit in optio aperiam rem iure excepturi similique est error sequi et dignissimos, neque aliquid eligendi? Ipsam animi maiores ut facilis quos minima nisi soluta delectus odio beatae veritatis quisquam ex cumque totam sint sit vel qui, magni fugit deserunt sapiente! Reiciendis voluptatem at enim explicabo temporibus quas in quasi ducimus provident iusto! Modi unde voluptatem doloremque vitae dolorum fugiat. Laborum fugit laboriosam, consequuntur unde rerum aperiam dolore voluptatibus sed doloremque provident in esse consequatur assumenda? Debitis sed neque consequatur asperiores quisquam quaerat labore ad laboriosam. Quis aliquid obcaecati iusto.</div>
+</body>
+
+</html>
