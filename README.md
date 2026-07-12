@@ -29,6 +29,7 @@ This repository contains my web development learning projects and practice exerc
 - Sizing Units
 - CSS Display Properties
 - CSS Shadows & Outlines
+- Styling Lists using CSS
 
 ---
 
@@ -54,6 +55,7 @@ WEB-DEV/
 ├── 14-sizing-units
 ├── 15-CSS-display-property
 ├── 16-Shadows-and-outlines
+├── 17-styling-lists-using-CSS
 └── README.md
 ```
 
@@ -92,6 +94,7 @@ and eventually move towards full-stack web development.
 - [x] CSS Sizing Units
 - [x] CSS Display Properties
 - [x] CSS Shadows & Outlines
+- [x] Styling lists using CSS
 ---
 
 ## 👨‍💻 Author
